@@ -103,20 +103,6 @@ Remove ads and support development with a Pro License!
 
 ---
 
-## 📋 Supported Content Types
-
-| Type | Example |
-|------|---------|
-| 🔗 URLs | `https://example.com` |
-| 📧 Email | `mailto:hello@example.com` |
-| 📱 Phone | `tel:+1234567890` |
-| 📝 Text | Any plain text up to 2000 characters |
-| 📶 WiFi | `WIFI:T:WPA;S:NetworkName;P:password;;` |
-| 📍 Location | `geo:40.7128,-74.0060` |
-| 💳 vCard | Contact information |
-
----
-
 ## 🔒 Privacy & Security
 
 DC QR CODES is designed with privacy as a core principle:
