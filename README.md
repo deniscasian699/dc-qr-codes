@@ -91,7 +91,7 @@ Remove ads and support development with a Pro License!
 
 ### €4.99/month
 
-[![Get Pro License](https://img.shields.io/badge/🛒_Get_Pro_License-8b5cf6?style=for-the-badge)](https://digitalstore.deniscasian.com/l/dc-qr-codes-pro)
+[![Get Pro License](https://img.shields.io/badge/🛒_Get_Pro_License-8b5cf6?style=for-the-badge)](https://courses.deniscasian.com/b/dc-qr)
 
 </div>
 
@@ -160,7 +160,7 @@ For licensing inquiries, contact [support@deniscasian.com](mailto:support@denisc
 If you find DC QR CODES useful, consider:
 
 - ⭐ **Starring** this repository
-- 🛒 **Getting a [Pro License](https://digitalstore.deniscasian.com/l/dc-qr-codes-pro)**
+- 🛒 **Getting a [Pro License](https://courses.deniscasian.com/b/dc-qr)**
 - 📢 **Sharing** with friends and colleagues
 - 💬 **Joining our [Discord](https://discord.com/invite/M3RaXJpenV)**
 
