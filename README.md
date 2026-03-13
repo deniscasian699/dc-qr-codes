@@ -12,7 +12,7 @@
   [![PWA](https://img.shields.io/badge/PWA-Ready-00d4aa?style=for-the-badge&logo=pwa)](#features)
   [![Made with Love](https://img.shields.io/badge/Made_with-❤️-ff6b6b?style=for-the-badge)](#)
 
-  [Live Demo](https://qr.deniscasian.com) • [Get Pro License](https://digitalstore.deniscasian.com/l/dc-qr-codes-pro) • [Report Bug](https://bugs.deniscasian.com) • [Feature Request](https://qa.deniscasian.com)
+  [Live Demo](https://qr.deniscasian.com) • [Get Pro License](https://courses.deniscasian.com/b/dc-qr) • [Report Bug](https://bugs.deniscasian.com) • [Feature Request](https://qa.deniscasian.com)
 
 </div>
 
@@ -148,7 +148,7 @@ For licensing inquiries, contact [support@deniscasian.com](mailto:support@denisc
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-deniscasian.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://deniscasian.com)
-[![Store](https://img.shields.io/badge/Store-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=white)](https://digitalstore.deniscasian.com)
+[![Store](https://img.shields.io/badge/Store-PayHip-7C3AED?style=for-the-badge&logo=shopify&logoColor=white)](https://courses.deniscasian.com)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/M3RaXJpenV)
 
 </div>
