@@ -89,7 +89,7 @@ Remove ads and support development with a Pro License!
 
 <div align="center">
 
-### €4.99/month
+### €4.99/One Time Purchase
 
 [![Get Pro License](https://img.shields.io/badge/🛒_Get_Pro_License-8b5cf6?style=for-the-badge)](https://courses.deniscasian.com/b/dc-qr)
 
