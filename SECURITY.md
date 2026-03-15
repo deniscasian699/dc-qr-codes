@@ -42,7 +42,7 @@ If you discover a security vulnerability, please report it responsibly.
 - Data handling and storage
 
 ### Out of Scope
-- Third-party services (Firebase, Gumroad, etc.)
+- Third-party services (Firebase, PayHip, etc.)
 - Browser vulnerabilities
 - Social engineering attacks
 
